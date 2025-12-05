@@ -4,6 +4,10 @@ This repository contains a collection of utility scripts for various tasks. To e
 
 ## Utilities
 
+- [`bulk-commit-actions-api`](bulk-commit-actions-api/):
+  - A Node.js utility for performing bulk commits to Copado User Stories using the Copado Actions API.
+  
 - [`get-license-info`](get-license-info/):
   - Provides scripts to retrieve Copado license information from your Salesforce org.
-    Explore each directory for details and usage examples.
+    
+Explore each directory for details and usage examples.
